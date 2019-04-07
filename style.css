@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+html,body  {
+	height: 100%;
+	font-family: 'Open Sans', sans-serif;
+	width:100%;
+	overflow-x:hidden;
+	}
+
+h1 {
+	font-weight: bold;
+	font-size:200%;
+}
+
+
+.head{
+	background-image: url("img/bg.jpg");
+	width:auto;
+}
+
+.title{
+	width:270px;
+	height:auto;
+	margin-left:80px;
+}
+
+.content {
+	max-width:75%;
+	height:100%;
+}
+
+.results {
+	font-family: 'Open Sans', sans-serif;
+	font-size:90%;	
+}
+
+
+
+
